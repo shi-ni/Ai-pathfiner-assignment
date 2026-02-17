@@ -39,7 +39,7 @@ cd ai
 ## How to Run
 
 ```bash
-python AI_23P_0634_23P_3064.py
+python AI_23F-0874_23F-0873.py
 ```
 
 ## Usage
@@ -63,7 +63,7 @@ python AI_23P_0634_23P_3064.py
 
 ```
 ai/
-├── AI_23P_0634_23P_3064.py    # Main implementation file
+├── AI_23F-0874_23F-0873.py    # Main implementation file
 └── README.md                   # This file
 ```
 
